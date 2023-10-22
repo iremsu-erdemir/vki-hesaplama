@@ -1,4 +1,5 @@
 *.c linguist-detectable=true
+*.cplusplus linguist-detectable=false
 
 *.csharp linguist-detectable=false
 
